@@ -27,9 +27,9 @@ Update the db.php File Details as shown Below:
 
 Preview
 ========
-Login Form: https://github.com/yashhh-git/Myloginpage/login-signup-form-master/login.php
+Login Form: https://github.com/yashhh-git/Myloginpage/blob/main/index.php
 
-Registration Form: https://github.com/yashhh-git/Myloginpage/login-signup-form-master/registration.php
+Registration Form: https://github.com/yashhh-git/Myloginpage/blob/main/registration.php
 
 License
 ==========

@@ -6,8 +6,8 @@ All information is stored in a MySQL database. After successful login the user i
 I enjoy making software so much! Please, if you see any issues make them known!
 
 Documentation
-===============
-https://nateduhamell.com/github-project-login-sign-up-form/
+===============[
+(https://github.com/yashhh-git/Myloginpage/edit/main/README.md)
 
 Features
 ===============

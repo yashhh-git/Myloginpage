@@ -6,7 +6,7 @@ All information is stored in a MySQL database. After successful login the user i
 I enjoy making software so much! Please, if you see any issues make them known!
 
 Documentation
-===============[
+===============
 (https://github.com/yashhh-git/Myloginpage/edit/main/README.md)
 
 Features
@@ -27,9 +27,9 @@ Update the db.php File Details as shown Below:
 
 Preview
 ========
-Login Form: https://files.nateduhamell.com/test/login-signup-form-master/login.php
+Login Form: https://github.com/yashhh-git/Myloginpage/login-signup-form-master/login.php
 
-Registration Form: https://files.nateduhamell.com/test/login-signup-form-master/registration.php
+Registration Form: https://github.com/yashhh-git/Myloginpage/login-signup-form-master/registration.php
 
 License
 ==========

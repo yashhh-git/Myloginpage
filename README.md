@@ -7,7 +7,7 @@ I enjoy making software so much! Please, if you see any issues make them known!
 
 Documentation
 ===============
-https://nateduhamell.com/github-project-login-sign-up-form/
+(https://github.com/yashhh-git/Myloginpage/edit/main/README.md)
 
 Features
 ===============
@@ -27,9 +27,9 @@ Update the db.php File Details as shown Below:
 
 Preview
 ========
-Login Form: https://files.nateduhamell.com/test/login-signup-form-master/login.php
+Login Form: https://github.com/yashhh-git/Myloginpage/blob/main/index.php
 
-Registration Form: https://files.nateduhamell.com/test/login-signup-form-master/registration.php
+Registration Form: https://github.com/yashhh-git/Myloginpage/blob/main/registration.php
 
 License
 ==========
